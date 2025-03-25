@@ -1,4 +1,4 @@
-package org.example;
+package Main;
 
 import static Conversor.CreateFileJSONfromXMLConverter.FileJSONfromXMLConverter;
 import static StreamData.StreamExamples.*;
